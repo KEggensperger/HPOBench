@@ -49,7 +49,7 @@ In this wiki, we list the available benchmarks and their information.
 | *[BNNOn](https://github.com/automl/HPOBench/blob/8c0372ae7f333d94e265087d1f6d1c764fc79563/hpobench/benchmarks/ml/pybnn.py)                            | pybnn              | There are 4 benchmark in total (ToyFunction, BostonHousing, ProteinStructure, YearPrediction) |
 | [SurrogateSVMBenchmark](https://github.com/automl/HPOBench/blob/8c0372ae7f333d94e265087d1f6d1c764fc79563/hpobench/benchmarks/surrogates/svm_benchmark.py)              | surrogate_svm      | Random Forest Surrogate of a SVM on MNIST | 
 
-5. **Outlier detection pipelines on [ODDS](http://odds.cs.stonybrook.edu/)** 
+2. **Outlier detection pipelines on [ODDS](http://odds.cs.stonybrook.edu/)** 
 
 | Benchmark Name                    | Container Name     | Additional Info                      |
 | :-------------------------------- | ------------------ | ------------------------------------ |
@@ -57,7 +57,7 @@ In this wiki, we list the available benchmarks and their information.
 | [ODKernelDensityEstimation](https://github.com/automl/HPOBench/blob/master/hpobench/benchmarks/od/od_kde.py)          | outlier_detection  | Includes 15 data sets.                    |
 | [ODOneClassSupportVectorMachine](https://github.com/automl/HPOBench/blob/master/hpobench/benchmarks/od/od_ocsvm.py)     | outlier_detection  | Includes 15 data sets.                    |
 
-6. [Various ML pipelines on OpenML datasets](https://github.com/automl/HPOBench/tree/8c0372ae7f333d94e265087d1f6d1c764fc79563/hpobench/benchmarks/ml)
+3. [Various ML pipelines on OpenML datasets](https://github.com/automl/HPOBench/tree/8c0372ae7f333d94e265087d1f6d1c764fc79563/hpobench/benchmarks/ml)
 
 
 | Benchmark Name                    | Container Name     | Additional Info                      |
