@@ -21,7 +21,7 @@ In this wiki, we list the available benchmarks and their information.
 | [NavalPropulsionBenchmark](https://github.com/automl/HPOBench/blob/master/hpobench/benchmarks/nas/tabular_benchmarks.py)          | tabular_benchmarks | Loading may take several minutes.     |
 | [ParkinsonsTelemonitoringBenchmark](https://github.com/automl/HPOBench/blob/master/hpobench/benchmarks/nas/tabular_benchmarks.py) | tabular_benchmarks | Loading may take several minutes.     |
 
-3. NASBench
+3. **NASBench**
 
 | Benchmark Name                    | Container Name     | Additional Info                      |
 | :-------------------------------- | ------------------ | ------------------------------------ |
